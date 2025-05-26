@@ -1,4 +1,4 @@
 # Leap of Faith
 
 ## subareas
-- [room with many warnings](./warning-room.md)
+- [room with many warnings](./warning-subarea.md)
